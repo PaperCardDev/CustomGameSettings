@@ -1,0 +1,7 @@
+name: CustomGameSettings
+version: '${project.version}'
+main: cn.paper_card.custom_game_settings.CustomGameSettings
+api-version: 1.20
+folia-supported: true
+author: Paper99
+description: 自定义游戏设置，生存困难模式、死亡不掉落、出生半径0等。
